@@ -26,7 +26,7 @@ total training 1050 epochs(RTX 4050, 1min/epoch)
 
 ![performance image](./pictures/performance.png)
 
-## directorys and files
+## directories and files
 - checkpoint
   - model.pth
 - checkpoint_drlndw
