@@ -58,7 +58,7 @@ total training 1050 epochs(RTX 4050, 1min/epoch)
 
 ## How to train
 
-### 1. donwload dataset, using png2npy.py transform .png to .npm
+### 1. donwload dataset, using png2npy.py transform .png to .npy
 ```python
 python png2npy.py --pathFrom /path/to/DIV2K/ --pathTo /path/to/DIV2K_decoded/
 ```
